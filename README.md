@@ -15,8 +15,8 @@ This tool is intended **ONLY** for educational purposes and authorized security 
 ### 📌 Usage  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/s4uw/ddos-tool.git
-   cd ddos-tool
+   git clone https://github.com/s4uw/Do-Doing-Over-Speed.git
+   cd Do-Doing-Over-Speed
    ```
 2. Install dependencies:  
    ```bash
